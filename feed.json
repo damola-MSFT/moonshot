@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SpaceB is Going to the Moon",
+    "description": "",
+    "home_page_url": "https://damola-msft.github.io/moonshot",
+    "feed_url": "https://damola-msft.github.io/moonshot/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Damola Omotosho"
+    },
+    "items": [
+    ]
+}

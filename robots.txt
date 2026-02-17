@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://damola-msft.github.io/moonshot/sitemap.xml
